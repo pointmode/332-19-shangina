@@ -1,0 +1,2 @@
+C:\Users\maksi\source\repos\shangina-students\shangina-students\bin\Release\net8.0-windows\win-x64\publish\shangina-students.pdb
+C:\Users\maksi\source\repos\shangina-students\shangina-students\bin\Release\net8.0-windows\win-x64\publish\shangina-students.exe

@@ -1,0 +1,16 @@
+C:\Users\maksi\source\repos\shangina-students\shangina-students\bin\Debug\net8.0-windows\shangina-students.exe
+C:\Users\maksi\source\repos\shangina-students\shangina-students\bin\Debug\net8.0-windows\shangina-students.deps.json
+C:\Users\maksi\source\repos\shangina-students\shangina-students\bin\Debug\net8.0-windows\shangina-students.runtimeconfig.json
+C:\Users\maksi\source\repos\shangina-students\shangina-students\bin\Debug\net8.0-windows\shangina-students.dll
+C:\Users\maksi\source\repos\shangina-students\shangina-students\bin\Debug\net8.0-windows\shangina-students.pdb
+C:\Users\maksi\source\repos\shangina-students\shangina-students\obj\Debug\net8.0-windows\shangina_students.Form1.resources
+C:\Users\maksi\source\repos\shangina-students\shangina-students\obj\Debug\net8.0-windows\shangina-students.csproj.GenerateResource.cache
+C:\Users\maksi\source\repos\shangina-students\shangina-students\obj\Debug\net8.0-windows\shangina-students.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maksi\source\repos\shangina-students\shangina-students\obj\Debug\net8.0-windows\shangina-students.AssemblyInfoInputs.cache
+C:\Users\maksi\source\repos\shangina-students\shangina-students\obj\Debug\net8.0-windows\shangina-students.AssemblyInfo.cs
+C:\Users\maksi\source\repos\shangina-students\shangina-students\obj\Debug\net8.0-windows\shangina-students.csproj.CoreCompileInputs.cache
+C:\Users\maksi\source\repos\shangina-students\shangina-students\obj\Debug\net8.0-windows\shangina-students.dll
+C:\Users\maksi\source\repos\shangina-students\shangina-students\obj\Debug\net8.0-windows\refint\shangina-students.dll
+C:\Users\maksi\source\repos\shangina-students\shangina-students\obj\Debug\net8.0-windows\shangina-students.pdb
+C:\Users\maksi\source\repos\shangina-students\shangina-students\obj\Debug\net8.0-windows\shangina-students.genruntimeconfig.cache
+C:\Users\maksi\source\repos\shangina-students\shangina-students\obj\Debug\net8.0-windows\ref\shangina-students.dll
